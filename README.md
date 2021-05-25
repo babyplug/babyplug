@@ -1,23 +1,48 @@
 ## Hello everyone I'm Pond (aka. Babyplug) 👋
 
-[![Poramin github stats](https://github-readme-stats.vercel.app/api?username=babyplug&show_icons=true&hide=contribs)](https://github.com/babyplug)
+[![Poramin github stats](https://github-readme-stats.vercel.app/api?username=babyplug&show_icons=true&hide=contribs&count_private=true)](https://github.com/babyplug)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babyplug&layout=compact)](https://github.com/babyplug)
 
-Now Interesting:
+### Now Interesting:
 
 - Practice and improve my english skill.
 - Golang for RESTful API.
 - NestJS.
 - Kubernetes.
 
-Experience on work:
-- 
-
-Experience on hobby:
+### Experience on hobby:
 - Golang | Gin & Gorm
 - Golang | Fiber & Gorm
 - Typescript with TypeORM
+
+### Experience on work:
+
+#### November 2020 - Present
+- Take care about master data using loopback (TS).
+- CI/CD via CircleCI and AWS CodeBuild.
+- Consult newbie and intern about best practice and other things they need to knows.
+- Unit test and integration test with Jest, JUnit and Docker Composer.
+- Microservice with Java Spring Boot, Nest.js(TS), express, postgresql.
+- Hardening base image for Node.js, Dotnet and Java.
+- Maintain legacy project by Spring MVC and Oracle.
+- CCS (Center Chat System) with AWS DynamoDB, AWS Lambda, AWS Sync (Graphql), Postgresql, XState (State machine) and Strapi.
+
+#### August 2020 - October 2020
+- Builded Back-end for Ketogenic application by PHP (Laravel), Docker, MySQL and Back Office used Vue.js and Vuex.
+- Produced an API for management about branch, sale and customer used Java (Spring Boot), Docker, MySQL Send notification via FCM.
+- Conducted Back Offace to manage about news and lottery (Vue.js, Ant Design).
+
+#### June 2019 - August 2020
+- Internal program E-Document for document delivery system.
+- Produced data recording system for internal department only e.g. PR, PO and RO system.
+- Conducted performance recording system, assassment system and report system.
+- Created report system for export report in many various type e.g. Excel, Microsoft Word, Graphs and PDF.
+- Training course to end-user and also made Data Dictionary, ER Diagram, User Manual and deployment manual.
+
+#### June 2018 - July 2018
+- Create backend for insert Laos Lottery to Firebase Realtime Database.
+- Build two iOS application available on App Store: [Watermark](https://apps.apple.com/th/app/watermark-%E0%B8%AA%E0%B8%A3-%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%99-%E0%B8%B3-%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B8%A3-%E0%B8%9B/id903814764?l=th), [Lao Lottery](https://apps.apple.com/th/app/%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B8%A5%E0%B8%B2%E0%B8%A7-lao-lottery/id1470349977?l=th).
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
