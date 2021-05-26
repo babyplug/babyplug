@@ -30,7 +30,7 @@
 
 #### August 2020 - October 2020
 - Builded Back-end for Ketogenic application by PHP (Laravel), Docker, MySQL and Back Office used Vue.js and Vuex.
-- Produced an API for management about branch, sale and customer used Java (Spring Boot), Docker, MySQL Send notification via FCM.
+- Produced an API for management about branch, sale and customer used Java (Spring Boot), Docker, MySQL and Send notification via FCM.
 - Conducted Back Offace to manage about news and lottery (Vue.js, Ant Design).
 
 #### June 2019 - August 2020
