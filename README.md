@@ -55,6 +55,7 @@
 - [[Node] จัดการ Response เมื่อเกิด error ด้วย Central Error](https://medium.com/@pond.poramin/%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3-response-%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94-error-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-central-error-node-js-f573c0da3295)
 - [[Node] มาเพิ่ม Pagination ให้กับ API ของเรากันดีกว่า](https://medium.com/@pond.poramin/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1-pagination-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%81%E0%B8%B1%E0%B8%9A-api-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2-node-js-e3549a59b312)
 - [[Node] มาเขียน Middleware ของตัวเองกันดีกว่า](https://medium.com/@pond.poramin/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99-middleware-%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%94%E0%B8%B5%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2-express-node-js-5e11e0333039)
+- [[Node] Unit Testing ด้วย Jest](https://medium.com/@pond.poramin/unit-testing-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-jest-node-js-af0b93418fdf)
 <!-- - [[Node] ]() -->
 <!-- BLOG-POST-LIST:END -->
 
