@@ -19,7 +19,6 @@
 ### Experience on work:
 
 #### November 2020 - Present
-- Interview java candidate.
 - Take care about master data using loopback (TS).
 - CI/CD via CircleCI and AWS CodeBuild.
 - Consult newbie and intern about best practice and other things they need to knows.
