@@ -19,7 +19,7 @@ My current role is Full Stack Developer and former Backend Developer.
 
 ### Experience on work:
 
-### July 2021 - Present
+#### July 2021 - Present
 - Revamp old sale page (PHP & Vue.js) to Golang (Fiber & Gorm & Redis) and dedicate Vue.js repository.
 - CI/CD via Github Action and Digital Ocean App Platform.
 - Produce sale page report using Nuxt.js and Vuetify.
