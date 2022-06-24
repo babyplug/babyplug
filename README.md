@@ -1,5 +1,5 @@
 ## Hello everyone I'm Pond.  (aka. Babyplug) 👋
-My current role is Full Stack Developer and former Backend Developer. 
+I'm a Full Stack Developer and former Backend Developer. 
 
 [![Poramin github stats](https://github-readme-stats.vercel.app/api?username=babyplug&show_icons=true&hide=contribs&count_private=true)](https://github.com/babyplug)
 
