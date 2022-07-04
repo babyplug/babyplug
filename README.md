@@ -5,7 +5,7 @@ I'm a Full Stack Developer and former Backend Developer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babyplug&layout=compact)](https://github.com/babyplug)
 
-### Now Interesting:
+### Current interested:
 
 - Practice and improve my english skill.
 - Golang for RESTful API.
